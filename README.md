@@ -188,7 +188,7 @@ Once you have this installed, open a terminal on your local machine and run the 
 
 1. Clone the repository:
 <pre>
-git clone https://github.com/allmeidaapedro/Store-Item-Demand-Forecasting.git
+git clone https://github.com/Pranava31/Store-Item-Demand-Forecasting.git
 </pre>
 
 2. Navigate to the cloned repository directory:
